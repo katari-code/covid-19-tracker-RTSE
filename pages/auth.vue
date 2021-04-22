@@ -11,7 +11,7 @@
             <div class="tw-py-6">
               <img
                 src="/logo/bacteria 1.svg"
-                class="tw-px-2 tw-w-32"
+                class="tw-px-2 tw-w-"
                 alt=""
                 srcset=""
               />
@@ -89,7 +89,7 @@ export default {
   border-width: 1px;
 }
 .btn {
-  background-color: #02b3e4;
+  background-color: #33CC44;
 }
 .backgorund-signin {
   background-color: #f7f8fc;
