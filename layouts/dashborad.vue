@@ -68,6 +68,12 @@ export default {
           to: "/",
           selected: "false",
         },
+        {
+          title: "Map",
+          icon: "/icons/pin.svg",
+          to: "/map",
+          selected: "false",
+        },
     
         {
           title: "Logout",

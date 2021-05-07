@@ -1,4 +1,5 @@
 # covid-19tracker
+![alt text](https://https://github.com/katari-code/covid-19-tracker-RTSE/blob/main/static/logo/bacteria%201.svg?raw=true)
 
 ## Build Setup
 
